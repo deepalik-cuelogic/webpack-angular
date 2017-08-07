@@ -1,0 +1,11 @@
+{
+    "PORT": "3000",
+    "KC_URL": "http://localhost:8080/auth",
+    "KC_REALM": "LessonBee",
+    "KC_CLIENT_ID": "lessonBee-ui",
+    "KC_CLIENT_SECRET": "QcfRCwQv1gMTxhcPcRFFFdjT6oYSQ9uQ7GklZPIP8K0",
+    "KC_REALM_MASTER": "master",
+    "KC_ADMIN_USERNAME": "admin",
+    "KC_ADMIN_PASSWORD": "admin",
+    "KC_ADMIN_CLIENT": "admin-cli"
+}
